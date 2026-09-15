@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("bike fighter")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+191a689360cd3463f9d72c9249fbb2058c9e099d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+9673eb1c649c075741a74770c7c5b9ceb0efecf4")]
 [assembly: System.Reflection.AssemblyProductAttribute("bike fighter")]
 [assembly: System.Reflection.AssemblyTitleAttribute("bike fighter")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
