@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Student\\weeee are the best\\pleasevwrk\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D7F4C1ED-C4CE-4177-BDDF-8C07E2FB8BD3}|pleasevwrk.csproj|c:\\users\\student\\weeee are the best\\pleasevwrk\\resources\\splash\\splash.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{D7F4C1ED-C4CE-4177-BDDF-8C07E2FB8BD3}|pleasevwrk.csproj|solutionrelative:resources\\splash\\splash.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{67A9EFE9-24FD-6511-D192-70251642290E}|pleasevwrk.csproj|c:\\users\\student\\weeee are the best\\pleasevwrk\\resources\\splash\\splash.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{67A9EFE9-24FD-6511-D192-70251642290E}|pleasevwrk.csproj|solutionrelative:resources\\splash\\splash.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D7F4C1ED-C4CE-4177-BDDF-8C07E2FB8BD3}|pleasevwrk.csproj|c:\\users\\student\\weeee are the best\\pleasevwrk\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7F4C1ED-C4CE-4177-BDDF-8C07E2FB8BD3}|pleasevwrk.csproj|solutionrelative:appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{67A9EFE9-24FD-6511-D192-70251642290E}|pleasevwrk.csproj|c:\\users\\student\\weeee are the best\\pleasevwrk\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67A9EFE9-24FD-6511-D192-70251642290E}|pleasevwrk.csproj|solutionrelative:appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D7F4C1ED-C4CE-4177-BDDF-8C07E2FB8BD3}|pleasevwrk.csproj|c:\\users\\student\\weeee are the best\\pleasevwrk\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7F4C1ED-C4CE-4177-BDDF-8C07E2FB8BD3}|pleasevwrk.csproj|solutionrelative:mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{67A9EFE9-24FD-6511-D192-70251642290E}|pleasevwrk.csproj|c:\\users\\student\\weeee are the best\\pleasevwrk\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67A9EFE9-24FD-6511-D192-70251642290E}|pleasevwrk.csproj|solutionrelative:mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -51,8 +51,7 @@
               "RelativeToolTip": "AppShell.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-16T04:23:37.138Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-16T04:23:37.138Z"
             },
             {
               "$type": "Document",
@@ -64,8 +63,7 @@
               "RelativeToolTip": "MainPage.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-16T04:22:03.806Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-16T04:22:03.806Z"
             }
           ]
         }
